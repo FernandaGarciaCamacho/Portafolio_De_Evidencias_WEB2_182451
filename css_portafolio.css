@@ -1,0 +1,79 @@
+body
+{
+    background-color: rgb(234, 210, 252);
+}
+button
+{
+    background-color: rgb(144, 106, 172);
+    border: solid rgb(49, 15, 73);
+    padding: 20px 150px ;
+    width: 100%;
+    border-radius: 25px;
+    font-size: large;
+}
+p
+{
+    font-size: large;
+    background-color: rgb(185, 177, 194);
+}
+div
+{
+    background-color: rgb(185, 177, 194);
+    padding: 40px;
+    width: 35%;
+    margin: 20px;
+    border: 10px solid rgb(149, 132, 161);
+}
+div.img
+{
+    width: 40%;
+    border: none;
+    background-color: rgb(234, 210, 252);
+    padding: 5px;
+    margin: 20px;
+    justify-content: center;
+}
+div.unir
+{
+    display: flex;
+    border: none;
+    background-color: rgb(234, 210, 252);
+    width: 100%; 
+}
+button.parcial
+{
+    background-color: rgb(120, 88, 143);
+    border-color: rgb(119, 88, 141);  
+    padding: 10px 10px ;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    width: 10%;
+}
+button:active, button:hover
+{
+    background-color: rgb(70, 23, 104);
+    color: white;
+}
+table, td
+{
+    border: 1px solid indigo;
+    text-align: center;
+}
+h1.dos
+{
+    background-color: rgb(107, 86, 122);
+    color: rgb(226, 226, 226);
+}
+h3
+{
+    background-color: rgb(179, 146, 202);
+}
+h5
+{
+    background-color: rgb(190, 164, 209);
+}
+h1.uno
+{
+    color: indigo;
+    font-size: 4pc;
+}
